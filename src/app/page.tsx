@@ -250,7 +250,7 @@ export default function LandingPage() {
         {
           id: "3",
           name: "Partite di Calcio",
-          imageSrc: "http://img.b2bpic.net/free-photo/ordinary-life-scene-from-mall-america_23-2151564133.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ordinary-life-scene-from-mall-america_23-2151564133.jpg?_wi=1",
         },
         {
           id: "4",
@@ -293,7 +293,7 @@ export default function LandingPage() {
       title="FAQ"
       description="Domande frequenti"
       faqsAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/ordinary-life-scene-from-mall-america_23-2151564133.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/ordinary-life-scene-from-mall-america_23-2151564133.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>
